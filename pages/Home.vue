@@ -1,10 +1,10 @@
 <template></template>
 
 <script>
-import { swiper, swiperSlide } from 'vue-awesome-swiper'
-import 'swiper/dist/css/swiper.css'
-export default {}
+import { swiper, swiperSlide } from "vue-awesome-swiper";
+import "swiper/dist/css/swiper.css";
+export default {};
 </script>
-
+3
 <style>
 </style>
